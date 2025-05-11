@@ -50,8 +50,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7da5bf9e10ff9da44a325a224c728cb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productImage: {fileID: 3093873373502931641}
-  productName: {fileID: 8240604234959524166}
+  titleText: {fileID: 8240604234959524166}
+  iconImage: {fileID: 3093873373502931641}
+  viewButton: {fileID: 6171089229186369643}
 --- !u!1 &3666799102222564037
 GameObject:
   m_ObjectHideFlags: 0

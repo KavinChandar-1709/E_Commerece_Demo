@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -23,7 +25,7 @@ public class FilterPanelAnimator : MonoBehaviour
         closeButton.onClick.AddListener(HidePanel);
     }
 
-    void ShowPanel()
+    public void ShowPanel()
     {
         if (currentAnimation != null) StopCoroutine(currentAnimation);
         currentAnimation = StartCoroutine(SlidePanel(filterPanel.anchoredPosition, shownPos));
@@ -35,7 +37,7 @@ public class FilterPanelAnimator : MonoBehaviour
         currentAnimation = StartCoroutine(SlidePanel(filterPanel.anchoredPosition, hiddenPos));
     }
 
-    System.Collections.IEnumerator SlidePanel(Vector2 from, Vector2 to)
+    IEnumerator SlidePanel(Vector2 from, Vector2 to)
     {
         float elapsed = 0f;
         while (elapsed < slideDuration)

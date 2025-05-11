@@ -1,33 +1,41 @@
-using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
-using UnityEngine.Networking;
 using System.Collections;
+using TMPro;
+using UnityEngine;
+using UnityEngine.Networking;
+using UnityEngine.UI;
 
 public class ProductCard : MonoBehaviour
 {
-    public Image productImage;
-    public TextMeshProUGUI productName;
+    public TextMeshProUGUI titleText;
+    public Image iconImage;
+    public Button viewButton;
 
-    public void Setup(Product product)
+    private Product product;
+
+    public void Setup(Product productData)
     {
-        productName.text = product.name;
-        StartCoroutine(LoadImageFromURL(product.iconURL));
+        product = productData;
+        titleText.text = product.name;
+        StartCoroutine(LoadImage(product.iconURL));
+        viewButton.onClick.AddListener(OnViewClicked);
     }
 
-    IEnumerator LoadImageFromURL(string url)
+    void OnViewClicked()
     {
-        UnityWebRequest request = UnityWebRequestTexture.GetTexture(url);
-        yield return request.SendWebRequest();
+        UIManager.Instance.ShowObjectPanel();
+        // Optional: pass data to panel if needed
+    }
 
-        if (request.result == UnityWebRequest.Result.Success)
+    IEnumerator LoadImage(string url)
+    {
+        using (UnityEngine.Networking.UnityWebRequest request = UnityEngine.Networking.UnityWebRequestTexture.GetTexture(url))
         {
-            Texture2D tex = DownloadHandlerTexture.GetContent(request);
-            productImage.sprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), Vector2.one * 0.5f);
-        }
-        else
-        {
-            Debug.LogError("Image load failed: " + request.error);
+            yield return request.SendWebRequest();
+            if (request.result == UnityWebRequest.Result.Success)
+            {
+                Texture2D tex = ((UnityEngine.Networking.DownloadHandlerTexture)request.downloadHandler).texture;
+                iconImage.sprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), new Vector2(0.5f, 0.5f));
+            }
         }
     }
 }
