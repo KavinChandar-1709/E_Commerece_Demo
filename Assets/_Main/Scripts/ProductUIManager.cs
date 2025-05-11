@@ -1,29 +1,30 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections.Generic;
 
 public class ProductUIManager : MonoBehaviour
 {
-    public GameObject productCardPrefab;
-    public Transform contentHolder;
+    [Header("Prefabs and Holders")]
+    public ProductCardPool cardPool;
+    public ScrollableProductLoader scrollLoader;
 
-    // Main category toggles
+    [Header("Category Toggles")]
     public Toggle toggleClothes;
     public Toggle toggleWatches;
     public Toggle toggleJewelry;
     public Toggle toggleFootwear;
     public Toggle toggleAccessories;
 
-    // Subcategory toggles
+    [Header("Subcategory Toggles")]
     public Toggle toggleMale;
     public Toggle toggleFemale;
     public Toggle toggleKids;
 
-    // Buttons
+    [Header("Buttons")]
     public Button applyButton;
     public Button resetButton;
 
-    // Filter panel animator reference
+    [Header("Animator")]
     public FilterPanelAnimator filterAnimator;
 
     private List<Product> allProducts;
@@ -31,7 +32,13 @@ public class ProductUIManager : MonoBehaviour
     void Start()
     {
         allProducts = ProductDataLoader.LoadProducts();
-        DisplayProducts(allProducts); // Show all at start
+        if (allProducts == null || allProducts.Count == 0)
+        {
+            Debug.LogWarning("No products loaded.");
+            return;
+        }
+
+        scrollLoader.Load(allProducts);
 
         applyButton.onClick.AddListener(ApplyFilter);
         resetButton.onClick.AddListener(ResetFilter);
@@ -52,21 +59,17 @@ public class ProductUIManager : MonoBehaviour
         if (toggleFemale.isOn) activeSubcategories.Add("Female");
         if (toggleKids.isOn) activeSubcategories.Add("Kids");
 
-        // Filter logic
         List<Product> filtered = allProducts.FindAll(p =>
             (activeCategories.Count == 0 || activeCategories.Contains(p.category)) &&
             (activeSubcategories.Count == 0 || activeSubcategories.Contains(p.subcategory))
         );
 
-        DisplayProducts(filtered);
-
-        // Close panel
+        scrollLoader.Load(filtered);
         filterAnimator.HidePanel();
     }
 
     void ResetFilter()
     {
-        // Turn off all toggles
         toggleClothes.isOn = false;
         toggleWatches.isOn = false;
         toggleJewelry.isOn = false;
@@ -77,18 +80,6 @@ public class ProductUIManager : MonoBehaviour
         toggleFemale.isOn = false;
         toggleKids.isOn = false;
 
-        DisplayProducts(allProducts); // Reset product list
-    }
-
-    void DisplayProducts(List<Product> products)
-    {
-        foreach (Transform child in contentHolder)
-            Destroy(child.gameObject);
-
-        foreach (var p in products)
-        {
-            GameObject card = Instantiate(productCardPrefab, contentHolder);
-            card.GetComponent<ProductCard>().Setup(p);
-        }
+        scrollLoader.Load(allProducts);
     }
 }

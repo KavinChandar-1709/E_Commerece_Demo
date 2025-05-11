@@ -5,7 +5,7 @@
       "name": "Men's Formal Shirt",
       "category": "Clothes",
       "subcategory": "Male",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
       "modelPath": "Models/Clothes/MensShirt"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Women's Saree",
       "category": "Clothes",
       "subcategory": "Female",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
       "modelPath": "Models/Clothes/WomenSaree"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Luxury Men's Watch",
       "category": "Watches",
       "subcategory": "Male",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
       "modelPath": "Models/Watches/MensLuxury"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Women's Elegant Watch",
       "category": "Watches",
       "subcategory": "Female",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
       "modelPath": "Models/Watches/WomenWatch"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Gold Necklace",
       "category": "Jewelry",
       "subcategory": "Female",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
       "modelPath": "Models/Jewelry/Necklace"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Men's Silver Ring",
       "category": "Jewelry",
       "subcategory": "Male",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
       "modelPath": "Models/Jewelry/SilverRing"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Women's Sandals",
       "category": "Footwear",
       "subcategory": "Female",
-      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
       "modelPath": "Models/Footwear/WomenSandals"
     },
     {
@@ -77,7 +77,4407 @@
       "name": "Men's Wallet",
       "category": "Accessories",
       "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
       "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Accessories/MensWallet"
+    },
+    {
+      "id": "001",
+      "name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Men_Cloths.png",
+      "modelPath": "Models/Clothes/MensShirt"
+    },
+    {
+      "id": "002",
+      "name": "Women's Saree",
+      "category": "Clothes",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/saree.png",
+      "modelPath": "Models/Clothes/WomenSaree"
+    },
+    {
+      "id": "003",
+      "name": "Kids' T-Shirt",
+      "category": "Clothes",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Clothes/KidsTshirt"
+    },
+    {
+      "id": "004",
+      "name": "Luxury Men's Watch",
+      "category": "Watches",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/MensLuxury"
+    },
+    {
+      "id": "005",
+      "name": "Women's Elegant Watch",
+      "category": "Watches",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/wacth.png",
+      "modelPath": "Models/Watches/WomenWatch"
+    },
+    {
+      "id": "006",
+      "name": "Gold Necklace",
+      "category": "Jewelry",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/jewelry.png",
+      "modelPath": "Models/Jewelry/Necklace"
+    },
+    {
+      "id": "007",
+      "name": "Men's Silver Ring",
+      "category": "Jewelry",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
+      "modelPath": "Models/Jewelry/SilverRing"
+    },
+    {
+      "id": "008",
+      "name": "Boy's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Kids",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/Boy_clothes.png",
+      "modelPath": "Models/Footwear/KidsSneakers"
+    },
+    {
+      "id": "009",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "subcategory": "Female",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/girl.png",
+      "modelPath": "Models/Footwear/WomenSandals"
+    },
+    {
+      "id": "010",
+      "name": "Men's Wallet",
+      "category": "Accessories",
+      "subcategory": "Male",
+      "iconURL": "https://share.kiksar.com/Unity/Test/Assignment/FilterSytem/man.png",
       "modelPath": "Models/Accessories/MensWallet"
     }
   ]
